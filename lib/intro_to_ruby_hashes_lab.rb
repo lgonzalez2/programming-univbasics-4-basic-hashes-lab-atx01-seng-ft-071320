@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  hash = {
+    pet_type: "cat",
+    pet_name: "Garfield"
+  }
 end
 
 def pioneer
